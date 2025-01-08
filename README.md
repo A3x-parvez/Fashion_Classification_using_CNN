@@ -41,5 +41,5 @@ The [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset is
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fashion-classification-cnn.git
-   cd fashion-classification-cnn
+   git clone https://github.com/A3x-parvez/Fashion_Classification_using_CNN.git
+   cd Fashion_Classification_using_CNN
